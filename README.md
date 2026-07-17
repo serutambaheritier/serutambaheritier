@@ -71,9 +71,9 @@ An interactive travel website showcasing destinations with clean, responsive web
 
 I'm always interested in collaborating on exciting projects and learning from the community!
 
-- 📧 **Email:** [Add your email here]
+- 📧 **Email:** [serutambaheritiyeri@gmail.com]
 - 💼 **LinkedIn:** [Add your LinkedIn profile]
-- 🌐 **Portfolio:** [Add your portfolio website]
+- 🌐 **Portfolio:** [heritier-7e82dhg4q-heritiers-projects-90fa7662.vercel.app]
 - 📝 **Blog:** [Add if you have one]
 
 ---
