@@ -22,11 +22,13 @@ I'm **Serutamba Heritier**, a passionate developer with a strong foundation in f
 ![Java](https://img.shields.io/badge/Java-ED8936?style=for-the-badge&logo=java&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![PL/SQL](https://img.shields.io/badge/PL%2FSQL-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ### Tools & Databases
-- **Databases:** Oracle, MySQL
+- **Databases:** Oracle, MySQL, PostgreSQL
+- **Frontend:** Tailwind CSS, HTML5, CSS3
 - **Version Control:** Git, GitHub
-- **Development:** Object-Oriented Programming (OOP), Web Development
+- **Development:** Object-Oriented Programming (OOP), Full-Stack Web Development
 
 ---
 
@@ -60,7 +62,8 @@ An interactive travel website showcasing destinations with clean, responsive web
 ## 🌟 Key Highlights
 
 - ✅ **17+ repositories** showcasing diverse projects
-- ✅ **Full-stack capabilities** from frontend to database
+- ✅ **Full-stack capabilities** from frontend to backend and database
+- ✅ **Modern tech stack** including Tailwind CSS and PostgreSQL
 - ✅ **Team collaboration experience** with cohort projects
 - ✅ **Problem-solving** through assignments and final projects
 - ✅ **Continuous learner** embracing new technologies
@@ -71,19 +74,19 @@ An interactive travel website showcasing destinations with clean, responsive web
 
 I'm always interested in collaborating on exciting projects and learning from the community!
 
-- 📧 **Email:** [serutambaheritiyeri@gmail.com]
-- 💼 **LinkedIn:** [Add your LinkedIn profile]
-- 🌐 **Portfolio:** [heritier-7e82dhg4q-heritiers-projects-90fa7662.vercel.app]
-- 📝 **Blog:** [Add if you have one]
+- 📧 **Email:** serutambaheritiyeri@gmail.com
+- 💼 **Portfolio:** [https://heritier-7e82dhg4q-heritiers-projects-90fa7662.vercel.app](https://heritier-7e82dhg4q-heritiers-projects-90fa7662.vercel.app)
+- 🌐 **GitHub:** [github.com/serutambaheritier](https://github.com/serutambaheritier)
 
 ---
 
 ## 📈 What I'm Working On
 
 - Enhancing my JavaScript and modern framework skills
-- Exploring full-stack development best practices
+- Exploring full-stack development with Tailwind CSS and PostgreSQL
 - Contributing to collaborative projects
-- Building scalable applications
+- Building scalable, modern applications
+- Expanding expertise in responsive design and database optimization
 
 ---
 
